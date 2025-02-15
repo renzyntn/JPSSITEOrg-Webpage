@@ -2,7 +2,7 @@
 A webpage based on my department organization "JPSSITE" (Junior Philippine Student Society for Information Technology Education)
 
 #Live Demo
-[Click here to View Page] (https://jpssitelcup.netlify.app/)
+(https://jpssitelcup.netlify.app/)
 
 With the following nav buttons showcasing the main, news, events, and about pages.
 
